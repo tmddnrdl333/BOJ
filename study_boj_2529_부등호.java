@@ -50,6 +50,7 @@ public class study_boj_2529_부등호 {
 			sb.append(s.pop() + "");
 		}
 		sb.append("\n");
+		
 		// 2
 		s.push(0);
 		now = 1;
