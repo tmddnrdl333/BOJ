@@ -1,4 +1,4 @@
-package ps.BOJ._00_workspace;
+package ps.BOJ._20000_29999;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
